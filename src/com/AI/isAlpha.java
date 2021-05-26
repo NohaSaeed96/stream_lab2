@@ -1,6 +1,6 @@
 package com.AI;
 
-public class isLetter {
+public class isAlpha {
     public static boolean letters(String s) {
         if (s==null | s.equals("")) {
             return false;
